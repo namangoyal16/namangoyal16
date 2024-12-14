@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **naman.eclipse@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/xzstpctrkbnn#a8882d](https://www.overleaf.com/read/xzstpctrkbnn#a8882d)
+- 📄 Know about my experiences [My Resume](https://www.overleaf.com/read/xzstpctrkbnn#a8882d)
 
 - ⚡ Fun fact **I once hated programming**
 
